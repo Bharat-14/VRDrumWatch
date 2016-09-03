@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SensorCollector</string>
+    <string name="hello_round">Hello Round World!</string>
+    <string name="hello_square">Hello Square World!</string>
+    <string name="devices">Devices</string>
+    <string name="configs">Configs</string>
+</resources>
